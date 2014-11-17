@@ -1,0 +1,4 @@
+mcpi
+====
+
+Minecraft Python projects
